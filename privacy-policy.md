@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**AI Mentor: Mental Health**
+**AI Mentor: Mind Sanctuary**
 Last updated: April 28, 2026
 
 ## 1. Information We Collect
