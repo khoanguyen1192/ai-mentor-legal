@@ -33,4 +33,4 @@ We may update this policy. Continued use of the app after changes constitutes ac
 
 ## 8. Contact
 For privacy questions or data deletion requests:
-**Email**: khoanguyen1192@gmail.com
+**Email**: support@mindsanctuaryai.app
