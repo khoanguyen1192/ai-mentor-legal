@@ -45,4 +45,4 @@ These Terms are governed by the laws of Vietnam, without regard to conflict of l
 We may update these Terms. Continued use after changes constitutes acceptance.
 
 ## 11. Contact
-**Email**: khoanguyen1192@gmail.com
+**Email**: support@mindsanctuaryai.app
